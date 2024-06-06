@@ -1,6 +1,10 @@
 using MongoDB.Driver;
 // run the Database 
 // $ docker run --name m165 -p:27017:27017 -d frm1971/m165-15 
+
+// Prüfung M 165
+// docker run --name m165p3 -d -p 27017:27017 frm1971/m165p3
+
 // Create a new Dotnet Console
 // $ dotnet new console --name m165-15
 // add the Package of MogoDb.Driver
